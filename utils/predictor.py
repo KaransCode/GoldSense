@@ -5,8 +5,8 @@ import numpy as np
 from tensorflow.keras.models import load_model
 import joblib
 
-# Force TensorFlow 2.16+ to use Keras 2 compatible environment to load older models
-os.environ["TF_USE_LEGACY_KERAS"] = "1"
+# # Force TensorFlow 2.16+ to use Keras 2 compatible environment to load older models
+# os.environ["TF_USE_LEGACY_KERAS"] = "1"
 
 # 1. Dynamically get the absolute path of the current file (predictor.py)
 current_dir = os.path.dirname(os.path.abspath(__file__))
