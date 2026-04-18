@@ -77,11 +77,3 @@ GoldSense/
    The interactive dashboard will automatically open in your default browser at `http://localhost:8501`.
 
 ---
-
-## ☁️ Deployment
-
-GoldSense can be deployed instantly using **Streamlit Community Cloud**:
-1. Push this repository to GitHub.
-2. Sign in to [share.streamlit.io](https://share.streamlit.io).
-3. Connect your GitHub, select the repository, and set the entrypoint to `app.py`.
-4. Streamlit will install the CPU-optimized requirements and host your AI dashboard for free.
