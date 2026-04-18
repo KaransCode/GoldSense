@@ -10,8 +10,8 @@ requests
 yfinance
 joblib
 ml-dtypes
-tensorflow-cpu==2.21.0
-keras==3.13.2
+tensorflow-cpu
+keras
 tf-keras
 torch
 transformers
