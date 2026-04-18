@@ -2,15 +2,16 @@
 
 streamlit
 pandas
-numpy
+numpy<2.0.0
 plotly
 matplotlib
 seaborn
 requests
 yfinance
 joblib
-tensorflow-cpu<2.16.0
-ml-dtypes<0.3.0
+tensorflow-cpu
+ml-dtypes
+tf-keras
 torch
 transformers
 scikit-learn
