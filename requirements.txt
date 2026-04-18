@@ -9,6 +9,6 @@ seaborn
 requests
 yfinance
 joblib
-tensorflow-cpu==2.21.0
+tensorflow-cpu==2.15.0
 torch
 transformers
